@@ -14,16 +14,6 @@ improve their calculus skills by practicing with real-world problems to
 inspire their curiosity and help them retain the knowledge.
 
 Prerequisites
--------------
-
-The aim of this project is not to teach calculus from scratch, students
-should have been exposed to the basic ideas including
-
--   The power law of derivatives
-
--   The chain rule
-
-Prerequisites
 =============
 
 The aim of this project is not to teach calculus from scratch, students
@@ -40,18 +30,18 @@ This project is divided into two main sections: differential and
 integral calculus. Within each section there are 4 levels which are
 defined as:
 
-1.  Level one: The difficulty is approximately aimed at people who are
-    very new to calculus. Problems only involve two variables i.e. IGCSE
-    extended maths or equivalent
+1.  Level one aimed at people who are new to calculus.
 
-2.  Level two: The difficulty is approximately designed to challenge
-    gifted 16 year olds i.e. IGCSE additional maths or equivalent
+2.  Level two is designed to challenge advanced secondary students and
+    beyond. For example an IGCSE additional maths student. You should be
+    familiar with problems involving related rates of change.
 
-3.  Level three: The difficulty is aimed at A-level, IB maths students
-    or equivalent
+3.  Level three is aimed at motived secondary level students and beyond.
+    For example A-level further maths or IB higher level. It involves
+    complex numbers, parametric curves and implicit curves.
 
-4.  Level four: This is for people looking to sharpen their skills prior
-    to begining university
+4.  Level four is aimed at people looked to develop motivation for
+    university level material. It involves ODEs and PDEs.
 
 Contribute
 ==========
